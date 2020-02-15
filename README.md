@@ -3,7 +3,9 @@ A template to manage your job hunt.
 
 As you add new job cards, filling them out with details and adding color coded labels about their status, you'll get a view of the big picture of your job hunt pipeline! It's helpful for keeping all the details at hand, and it's also reassuring as you see a record of all the hard work you're doing for your hunt. 
 
-To use this template, first fork the repo and make sure it is private. 
+To use this template, duplicate it following the steps here:  https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository. This is necessary since public forks cannot be made private.
+
+Then copy the project board info, (add steps to do this)
 
 Then start filing issues!
 

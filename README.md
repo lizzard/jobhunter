@@ -1,5 +1,5 @@
 # jobhunter
-A template to manage your job hunt. 
+A template to manage your job hunt. (Also created in Trello, in a form much easier to copy and use: https://trello.com/b/TW3i4byR/job-hunt)
 
 As you add new job cards, filling them out with details and adding color coded labels about their status, you'll get a view of the big picture of your job hunt pipeline! It's helpful for keeping all the details at hand, and it's also reassuring as you see a record of all the hard work you're doing for your hunt. 
 
